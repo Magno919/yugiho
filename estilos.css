@@ -1,0 +1,24 @@
+.container{
+    background-color: black;
+}
+
+
+.ajustavel{
+    width: 100%;
+    height: 100%;
+    padding: 20px;
+    
+}
+
+body{
+    background-image: url(img/fundo.png);
+}
+
+.color{
+    color: brown
+    
+}
+
+#navbarNav{
+    color: brown
+}
